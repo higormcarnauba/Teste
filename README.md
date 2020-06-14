@@ -43,7 +43,7 @@ Aqui vai todos os sites que usamos ex:
 
 ## Versões
 
-* [Versão 1.0.4] (https://github.com/xHigorZ/Teste/blob/master/v1.0.4.rar) 
+* [Versão 1.0.4](https://github.com/xHigorZ/Teste/blob/master/v1.0.4.rar) 
 
 ## Autores
 
