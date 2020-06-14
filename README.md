@@ -37,6 +37,7 @@ Fim
 * [Visual Studio](https://visualstudio.microsoft.com/pt-br/) - Plataforma de Desenvolvimento
 * [Fuse](https://store.steampowered.com/app/257400/Fuse/?l=portuguese) - Plataforma de Criação do Personagem
 * [Mixamo](https://www.mixamo.com/#/) - Plataforma de Animação do Personagem
+* [SketchUp](https://www.sketchup.com/pt-BR) - Plataforma de Projetos 3D
 
 ## Referências
 
