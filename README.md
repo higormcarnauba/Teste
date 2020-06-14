@@ -53,10 +53,10 @@ Aqui vai todos os sites que usamos ex:
 ## Autores
 
 * *Líder* - **Cícero Higor de Medeiros Carnaúba** - [Instagram](https://www.instagram.com/higormcarnauba/)
-* *Desing* - **Aglivan** - [Instagram](https://www.instagram.com/higormcarnauba/)
-* *Programador* - **Igo** - [Instagram](https://www.instagram.com/higormcarnauba/)
-* *Músico* - **Gabriel** - [Instagram](https://www.instagram.com/higormcarnauba/)
+* *Desing* - **Aglivan** - [Instagram](https://www.instagram.com/ashirodesu/)
+* *Programador* - **Igo** - [Instagram](https://www.instagram.com/igosaldanha_/)
+* *Músico* - **Gabriel** - [Instagram](https://www.instagram.com/diasm_gabriel/)
 
 ## Agradecimentos
 
-* Pra quem ajudou etc...
+* Ao professor Daniel Saraiva por incentivar está game jam.
