@@ -32,26 +32,27 @@ Fim
 
 ## Softwares Usados
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+Aqui vamos colocar os Softwares Utilizados para fazer o jogo ex:
+* [Unity](https://unity.com/pt) - Plataforma de Desenvolvimento
 
 ## Referências
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Aqui vai todos os sites que usamos ex:
+[Efeitos Sonoros](https://sonniss.com/gameaudiogdc2016/)
+
 
 ## Versões
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags)
+Colocar Aqui as versões do projeto. Tem que postar junto kk 
 
 ## Autores
 
 * *Líder* - **Cícero Higor de Medeiros Carnaúba** - [Instagram](https://www.instagram.com/higormcarnauba/)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* *Desing* - **Aglivan** - [Instagram](https://www.instagram.com/higormcarnauba/)
+* *Programador* - **Igo** - [Instagram](https://www.instagram.com/higormcarnauba/)
+* *Músico* - **Gabriel** - [Instagram](https://www.instagram.com/higormcarnauba/)
 
 ## Agradecimentos
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Pra quem ajudou etc...
