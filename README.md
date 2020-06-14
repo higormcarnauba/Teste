@@ -1,4 +1,4 @@
-# [Quarantine Day]() []()
+# Quarantine Day []()
 
 Quarantine Day, foi inspirado nos dias de isolamento social,  causados pela pandemia de COVID-19. O jogo consiste no desafio de conseguir sobreviver ao tédio de casa, dia após dia.
 
