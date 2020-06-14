@@ -42,7 +42,8 @@ Fim
 ## Referências
 
 Aqui vai todos os sites que usamos ex:
-[Efeitos Sonoros](https://sonniss.com/gameaudiogdc2016/)
+* [Efeitos Sonoros](https://sonniss.com/gameaudiogdc2016/)
+* 
 
 
 ## Versões
