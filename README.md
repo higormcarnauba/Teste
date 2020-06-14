@@ -1,4 +1,5 @@
-# Quarantine Day ![CoronaVírus](https://user-images.githubusercontent.com/56702143/84601380-09058a80-ae56-11ea-8179-91b3a4a8e168.png)
+# Quarantine Day ![unnamed (1)](https://user-images.githubusercontent.com/56702143/84601421-4833db80-ae56-11ea-8f81-bdb9c7bdcfcc.png)
+
 
 Quarantine Day, foi inspirado nos dias de isolamento social,  causados pela pandemia de COVID-19. O jogo consiste no desafio de conseguir sobreviver ao tédio de casa, dia após dia.
 
