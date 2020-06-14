@@ -33,8 +33,10 @@ Fim
 
 ## Softwares Usados
 
-Aqui vamos colocar os Softwares Utilizados para fazer o jogo ex:
 * [Unity](https://unity.com/pt) - Plataforma de Desenvolvimento
+* [Visual Studio](https://visualstudio.microsoft.com/pt-br/) - Plataforma de Desenvolvimento
+* [Fuse](https://store.steampowered.com/app/257400/Fuse/?l=portuguese) - Plataforma de Criação do Personagem
+* [Mixamo](https://www.mixamo.com/#/) - Plataforma de Animação do Personagem
 
 ## Referências
 
