@@ -43,8 +43,7 @@ Aqui vai todos os sites que usamos ex:
 
 ## Versões
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags)
-Colocar Aqui as versões do projeto. Tem que postar junto kk 
+* [Versão 1.0.4] (https://github.com/xHigorZ/Teste/blob/master/v1.0.4.rar) 
 
 ## Autores
 
