@@ -31,4 +31,4 @@ Aqui vai todos os sites que usamos ex:
 
 ## Agradecimentos
 
-* Ao professor Daniel Saraiva por incentivar está game jam.
+* Ao professor Daniel Saraiva por incentivar está Game Jam.
