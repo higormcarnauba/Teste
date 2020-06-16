@@ -17,8 +17,8 @@
 
 ## Referências
 
-* [Efeitos Sonoros](https://sonniss.com/gameaudiogdc2016/)
-* [Efeitos Sonoros](https://freesound.org/browse/)
+* [Efeitos Sonoros 1](https://sonniss.com/gameaudiogdc2016/)
+* [Efeitos Sonoros 2](https://freesound.org/browse/)
 * [Sprites](https://br.freepik.com)
 
 ## Criadores
