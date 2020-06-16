@@ -5,7 +5,7 @@
 
 ## Download do Jogo
 
-* [Quarantine Days Versão Final](https://github.com/xHigorZ/Teste/blob/master/v1.0.4.rar)
+* [Quarantine Day Versão Final](https://github.com/xHigorZ/Teste/blob/master/v1.0.4.rar)
 
 ## Softwares Usados
 
