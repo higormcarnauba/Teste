@@ -17,17 +17,16 @@
 
 ## Referências
 
-Aqui vai todos os sites que usamos ex:
 * [Efeitos Sonoros](https://sonniss.com/gameaudiogdc2016/)
 * [Efeitos Sonoros](https://freesound.org/browse/)
+* [Sprites](https://br.freepik.com)
 
-
-## Autores
+## Criadores
 
 * *Líder* - **Cícero Higor de Medeiros Carnaúba** - [Instagram](https://www.instagram.com/higormcarnauba/)
-* *Desing* - **Aglivan** - [Instagram](https://www.instagram.com/ashirodesu/)
-* *Programador* - **Igo** - [Instagram](https://www.instagram.com/igosaldanha_/)
-* *Músico* - **Gabriel** - [Instagram](https://www.instagram.com/diasm_gabriel/)
+* *Desing* - **Aglivan Gomes da Silva Junior** - [Instagram](https://www.instagram.com/ashirodesu/)
+* *Programador* - **Igo Da Silva Saldanha** - [Instagram](https://www.instagram.com/igosaldanha_/)
+* *Músico* - **Gabriel Dias Neves Mandú** - [Instagram](https://www.instagram.com/diasm_gabriel/)
 
 ## Agradecimentos
 
