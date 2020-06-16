@@ -3,33 +3,9 @@
 
 * Quarantine Day, foi inspirado nos dias de isolamento social,  causados pela pandemia de COVID-19. O jogo consiste no desafio de conseguir sobreviver ao tédio de casa, dia após dia.
 
-## Como Instalar
+## Download do Jogo
 
-Aqui deve se colocar instruções para Instalar o jogo
-
-### Pré-Requisitos
-
-Coisas necessárias para se instalar
-
-```
-Exemplos
-```
-
-### Instalando
-
-Passo por passo para instalar o jogo
-
-```
-Exemplo
-```
-
-```
-Mais exemplo
-```
-
-```
-Fim
-```
+* [Quarantine Days Versão Final](https://github.com/xHigorZ/Teste/blob/master/v1.0.4.rar)
 
 ## Softwares Usados
 
@@ -43,12 +19,8 @@ Fim
 
 Aqui vai todos os sites que usamos ex:
 * [Efeitos Sonoros](https://sonniss.com/gameaudiogdc2016/)
-*
+* [Efeitos Sonoros](https://freesound.org/browse/)
 
-
-## Versões
-
-* [Versão 1.0.4](https://github.com/xHigorZ/Teste/blob/master/v1.0.4.rar)
 
 ## Autores
 
